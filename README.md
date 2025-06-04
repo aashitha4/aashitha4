@@ -22,7 +22,7 @@
  </div>
  
 <div align="center"> 
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank"> <!-- IMPORTANT: Replace YOUR_LINKEDIN_PROFILE_URL with your actual LinkedIn profile link -->
+  <a href="https://www.linkedin.com/in/aashitha-k-821248258/" target="_blank"> <!-- IMPORTANT: Replace YOUR_LINKEDIN_PROFILE_URL with your actual LinkedIn profile link -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/aashitha4" target="_blank">
