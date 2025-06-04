@@ -16,7 +16,7 @@
 🌱 I’m currently learning **MLOps, advanced Deep Learning techniques, and Cloud-Native applications.** <br />
 💡 Exploring projects in **Explainable AI (XAI), Multi-Cloud Orchestration, and Security.** <br />
 📫 How to reach me: **aashithak2004@gmail.com** <br />
-📄 My resume: **[Aashitha K's Resume](YOUR_RESUME_LINK_HERE)** <br /> <!-- IMPORTANT: Replace YOUR_RESUME_LINK_HERE with the actual public link to your resume PDF -->
+📄 My resume: **[Aashitha K's Resume](https://drive.google.com/file/d/1gkD805gx00ZbdDjz7BX_QDFpz7HJ1F_2/view?usp=drivesdk)** <br /> <!-- IMPORTANT: Replace YOUR_RESUME_LINK_HERE with the actual public link to your resume PDF -->
 ⚡ Fun fact: **I'm passionate about leveraging data to solve real-world problems and enjoy participating in debates on tech ethics!** <!-- Personalize this! -->
 
  </div>
@@ -51,8 +51,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,nodejs,express" /><br>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,matplotlib,seaborn,r" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,sql,mongodb,powerbi,tableau" /><br>
+<!--     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,matplotlib,seaborn,r" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,sql,mongodb,powerbi,tableau" /><br> -->
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /> <br>
 </div>
 
